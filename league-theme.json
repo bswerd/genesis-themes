@@ -590,8 +590,8 @@
           "value": {
             "fontFamily": "{Font Family.Body}",
             "fontWeight": "Medium",
-            "lineHeight": "24",
-            "fontSize": "16",
+            "lineHeight": "16",
+            "fontSize": "12",
             "letterSpacing": "{Letter Spacing.Default}",
             "paragraphSpacing": "0",
             "textCase": "none",
@@ -899,5 +899,6 @@
         }
       }
     }
-  }
+  },
+  "$themes": []
 }
