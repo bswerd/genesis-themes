@@ -419,7 +419,7 @@
         "Heading One": {
           "value": {
             "fontFamily": "{Font Family.Headings}",
-            "fontWeight": "Semibold",
+            "fontWeight": "{Large Headings}",
             "lineHeight": "40",
             "fontSize": "32",
             "letterSpacing": "{Letter Spacing.Default}",
@@ -433,7 +433,7 @@
         "Heading Two": {
           "value": {
             "fontFamily": "{Font Family.Headings}",
-            "fontWeight": "Semibold",
+            "fontWeight": "{Large Headings}",
             "lineHeight": "32",
             "fontSize": "24",
             "letterSpacing": "{Letter Spacing.Default}",
@@ -447,7 +447,7 @@
         "Heading Three": {
           "value": {
             "fontFamily": "{Font Family.Headings}",
-            "fontWeight": "Semibold",
+            "fontWeight": "{Large Headings}",
             "lineHeight": "28",
             "fontSize": "20",
             "letterSpacing": "{Letter Spacing.Default}",
@@ -461,7 +461,7 @@
         "Heading Four": {
           "value": {
             "fontFamily": "{Font Family.Headings}",
-            "fontWeight": "Semibold",
+            "fontWeight": "{Large Headings}",
             "lineHeight": "24",
             "fontSize": "18",
             "letterSpacing": "{Letter Spacing.Default}",
@@ -475,8 +475,8 @@
       "Body": {
         "Body One": {
           "value": {
-            "fontFamily": "{Font Family.Headings}",
-            "fontWeight": "Semibold",
+            "fontFamily": "{Font Family.Body}",
+            "fontWeight": "{Body}",
             "lineHeight": "24",
             "fontSize": "16",
             "letterSpacing": "{Letter Spacing.Default}",
@@ -489,8 +489,8 @@
         },
         "Body One Secondary": {
           "value": {
-            "fontFamily": "{Font Family.Headings}",
-            "fontWeight": "Semibold",
+            "fontFamily": "{Font Family.Body}",
+            "fontWeight": "{Body Secondary}",
             "lineHeight": "24",
             "fontSize": "16",
             "letterSpacing": "{Letter Spacing.Default}",
@@ -503,7 +503,7 @@
         "Body Two": {
           "value": {
             "fontFamily": "{Font Family.Body}",
-            "fontWeight": "Regular",
+            "fontWeight": "{Body}",
             "lineHeight": "20",
             "fontSize": "14",
             "letterSpacing": "{Letter Spacing.Default}",
@@ -517,7 +517,7 @@
         "Body Two Secondary": {
           "value": {
             "fontFamily": "{Font Family.Body}",
-            "fontWeight": "Regular",
+            "fontWeight": "{Body Secondary}",
             "lineHeight": "20",
             "fontSize": "14",
             "letterSpacing": "{Letter Spacing.Default}",
@@ -532,7 +532,7 @@
         "Subtitle One": {
           "value": {
             "fontFamily": "{Font Family.Body}",
-            "fontWeight": "Semibold",
+            "fontWeight": "{Small Headings}",
             "lineHeight": "24",
             "fontSize": "16",
             "letterSpacing": "-0.2px",
@@ -546,7 +546,7 @@
         "Subtitle Two": {
           "value": {
             "fontFamily": "{Font Family.Body}",
-            "fontWeight": "Semibold",
+            "fontWeight": "{Small Headings}",
             "lineHeight": "20",
             "fontSize": "14",
             "letterSpacing": "-0.2px",
@@ -898,6 +898,22 @@
           "description": "An App Bar appears at the top of a page or window to allow the user to navigate or close it. Additional, contextual actions can also be included."
         }
       }
+    },
+    "Large Headings": {
+      "value": "Semi Bold",
+      "type": "fontWeights"
+    },
+    "Small Headings": {
+      "value": "Semi Bold",
+      "type": "fontWeights"
+    },
+    "Body": {
+      "value": "Regular",
+      "type": "fontWeights"
+    },
+    "Body Secondary": {
+      "value": "Regular",
+      "type": "fontWeights"
     }
   },
   "$themes": []
