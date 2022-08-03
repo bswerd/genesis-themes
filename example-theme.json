@@ -63,7 +63,7 @@
       },
       "Interactive": {
         "Action Primary": {
-          "value": "#386E96",
+          "value": "#ff00fc",
           "type": "color"
         },
         "Action Hovered": {
@@ -899,5 +899,6 @@
         }
       }
     }
-  }
+  },
+  "$themes": []
 }
