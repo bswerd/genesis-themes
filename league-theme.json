@@ -741,7 +741,7 @@
       },
       "Dynamic": {
         "Button": {
-          "value": "3",
+          "value": "{Border Radius.Generic.Small}",
           "type": "borderRadius"
         }
       }
