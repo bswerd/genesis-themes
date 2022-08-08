@@ -63,15 +63,15 @@
       },
       "Interactive": {
         "Action Primary": {
-          "value": "#ff00fc",
+          "value": "#000000",
           "type": "color"
         },
         "Action Hovered": {
-          "value": "#2B5472",
+          "value": "#222222",
           "type": "color"
         },
         "Action Pressed": {
-          "value": "#214057",
+          "value": "#444444",
           "type": "color"
         },
         "Action Subdued": {
@@ -103,7 +103,7 @@
           "type": "color"
         },
         "Border Hovered": {
-          "value": "#4995BF",
+          "value": "#5c6d7d",
           "type": "color"
         },
         "Border Disabled": {
@@ -115,7 +115,7 @@
           "type": "color"
         },
         "Focus": {
-          "value": "#6891AF",
+          "value": "#36454F",
           "type": "color"
         },
         "Icon Default": {
@@ -281,15 +281,15 @@
       },
       "Primary": {
         "Background Default": {
-          "value": "#386E96",
+          "value": "#71797E",
           "type": "color"
         },
         "Background Hovered": {
-          "value": "#2B5472",
+          "value": "#818589",
           "type": "color"
         },
         "Background Pressed": {
-          "value": "#214057",
+          "value": "#848884",
           "type": "color"
         },
         "Text Default": {
