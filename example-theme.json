@@ -202,27 +202,27 @@
       "Decorative": {
         "Brand Primary": {
           "Darkest": {
-            "value": "#1D394E",
+            "value": "#252A2C",
             "type": "color"
           },
           "Dark": {
-            "value": "#2B5472",
+            "value": "#41494C",
             "type": "color"
           },
           "Default": {
-            "value": "#386E96",
+            "value": "#5D686D",
             "type": "color"
           },
           "Bright": {
-            "value": "#6891AF",
+            "value": "#8E9599",
             "type": "color"
           },
           "Brightest": {
-            "value": "#C3D3DF",
+            "value": "#BEC3C5",
             "type": "color"
           },
           "Pastel": {
-            "value": "#EBF0F4",
+            "value": "#EFF0F0",
             "type": "color"
           }
         },
