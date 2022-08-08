@@ -129,7 +129,7 @@
       },
       "Critical": {
         "Background Subdued": {
-          "value": "#B1A6A7",
+          "value": "#F3E8EA",
           "type": "color"
         },
         "Background Secondary": {
@@ -147,7 +147,7 @@
       },
       "Warning": {
         "Background Subdued": {
-          "value": "#B6ABA9",
+          "value": "#FAEBD7",
           "type": "color"
         },
         "Background Secondary": {
@@ -183,7 +183,7 @@
       },
       "Highlight": {
         "Background Subdued": {
-          "value": "#9B9CA6",
+          "value": "#F4F5FF",
           "type": "color"
         },
         "Background Secondary": {
