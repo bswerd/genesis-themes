@@ -319,15 +319,15 @@
           "type": "color"
         },
         "Background Hovered": {
-          "value": "#2B5472",
+          "value": "#90917E",
           "type": "color"
         },
         "Background Pressed": {
-          "value": "#214057",
+          "value": "#656658",
           "type": "color"
         },
         "Text Default": {
-          "value": "#386E96",
+          "value": "#3A3A32",
           "type": "color"
         },
         "Text Hovered": {
@@ -335,7 +335,7 @@
           "type": "color"
         },
         "Border Default": {
-          "value": "#386E96",
+          "value": "#B1B2A5",
           "type": "color"
         }
       },
@@ -345,15 +345,15 @@
           "type": "color"
         },
         "Background Hovered": {
-          "value": "#2B5472",
+          "value": "#747979",
           "type": "color"
         },
         "Background Pressed": {
-          "value": "#214057",
+          "value": "#424545",
           "type": "color"
         },
         "Text Default": {
-          "value": "#66686b",
+          "value": "#A5ADAD",
           "type": "color"
         },
         "Text Hovered": {
@@ -361,7 +361,7 @@
           "type": "color"
         },
         "Border Default": {
-          "value": "#949494",
+          "value": "#C0C6C6",
           "type": "color"
         }
       }
