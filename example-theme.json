@@ -37,7 +37,7 @@
           "type": "color"
         },
         "Text Critical": {
-          "value": "#ba1b3b",
+          "value": "#ce0830",
           "type": "color"
         },
         "Text Success": {
@@ -228,53 +228,53 @@
         },
         "Brand Secondary": {
           "Darkest": {
-            "value": "#754268",
+            "value": "#3C4044",
             "type": "color"
           },
           "Dark": {
-            "value": "#B0639C",
+            "value": "#697176",
             "type": "color"
           },
           "Default": {
-            "value": "#EA84D0",
+            "value": "#96A1A9",
             "type": "color"
           },
           "Bright": {
-            "value": "#F0A5DD",
+            "value": "#B6BDC3",
             "type": "color"
           },
           "Brightest": {
-            "value": "#F5C6E9",
+            "value": "#D5D9DD",
             "type": "color"
           },
           "Pastel": {
-            "value": "#FBE6F6",
+            "value": "#F5F6F6",
             "type": "color"
           }
         },
         "Brand Tertiary": {
           "Darkest": {
-            "value": "#15634A",
+            "value": "#161819",
             "type": "color"
           },
           "Dark": {
-            "value": "#24AE81",
+            "value": "#272B2C",
             "type": "color"
           },
           "Default": {
-            "value": "#34F8B8",
+            "value": "#383D3F",
             "type": "color"
           },
           "Bright": {
-            "value": "#71FACD",
+            "value": "#747779",
             "type": "color"
           },
           "Brightest": {
-            "value": "#AEFCE3",
+            "value": "#AFB1B2",
             "type": "color"
           },
           "Pastel": {
-            "value": "#EBFEF8",
+            "value": "#EBECEC",
             "type": "color"
           }
         }
