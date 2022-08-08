@@ -111,7 +111,7 @@
           "type": "color"
         },
         "Border Critical Default": {
-          "value": "#ba1b3b",
+          "value": "#ae0e2e",
           "type": "color"
         },
         "Focus": {
@@ -129,37 +129,37 @@
       },
       "Critical": {
         "Background Subdued": {
-          "value": "#f9dee3",
+          "value": "#B1A6A7",
           "type": "color"
         },
         "Background Secondary": {
-          "value": "#ffffff",
+          "value": "#ECE9E9",
           "type": "color"
         },
         "Border Default": {
-          "value": "#ba1b3b",
+          "value": "#3D2022",
           "type": "color"
         },
         "Icon": {
-          "value": "#ba1b3b",
+          "value": "#2B1618",
           "type": "color"
         }
       },
       "Warning": {
         "Background Subdued": {
-          "value": "#ffe4bb",
+          "value": "#B6ABA9",
           "type": "color"
         },
         "Background Secondary": {
-          "value": "#ffffff",
+          "value": "#EDEAEA",
           "type": "color"
         },
         "Border Default": {
-          "value": "#fd9833",
+          "value": "#492E28",
           "type": "color"
         },
         "Icon": {
-          "value": "#fd9833",
+          "value": "#1D1210",
           "type": "color"
         }
       },
