@@ -165,37 +165,37 @@
       },
       "Success": {
         "Background Subdued": {
-          "value": "#e5f6f1",
+          "value": "#E5F2EC",
           "type": "color"
         },
         "Background Secondary": {
-          "value": "#ffffff",
+          "value": "#F9FCFA",
           "type": "color"
         },
         "Border Default": {
-          "value": "#00a876",
+          "value": "#2B322D",
           "type": "color"
         },
         "Icon": {
-          "value": "#00a876",
+          "value": "#1E2320",
           "type": "color"
         }
       },
       "Highlight": {
         "Background Subdued": {
-          "value": "#eaeefb",
+          "value": "#9B9CA6",
           "type": "color"
         },
         "Background Secondary": {
-          "value": "#ffffff",
+          "value": "#E6E6E9",
           "type": "color"
         },
         "Border Default": {
-          "value": "#2e5cdf",
+          "value": "#040720",
           "type": "color"
         },
         "Icon": {
-          "value": "#2e5cdf",
+          "value": "#02030D",
           "type": "color"
         }
       },
