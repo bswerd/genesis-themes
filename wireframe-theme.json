@@ -37,7 +37,7 @@
           "type": "color"
         },
         "Text Critical": {
-          "value": "#ba1b3b",
+          "value": "#ce0830",
           "type": "color"
         },
         "Text Success": {
@@ -63,15 +63,15 @@
       },
       "Interactive": {
         "Action Primary": {
-          "value": "#386E96",
+          "value": "#000000",
           "type": "color"
         },
         "Action Hovered": {
-          "value": "#2B5472",
+          "value": "#222222",
           "type": "color"
         },
         "Action Pressed": {
-          "value": "#214057",
+          "value": "#444444",
           "type": "color"
         },
         "Action Subdued": {
@@ -103,7 +103,7 @@
           "type": "color"
         },
         "Border Hovered": {
-          "value": "#4995BF",
+          "value": "#5c6d7d",
           "type": "color"
         },
         "Border Disabled": {
@@ -111,11 +111,11 @@
           "type": "color"
         },
         "Border Critical Default": {
-          "value": "#ba1b3b",
+          "value": "#ae0e2e",
           "type": "color"
         },
         "Focus": {
-          "value": "#6891AF",
+          "value": "#36454F",
           "type": "color"
         },
         "Icon Default": {
@@ -129,167 +129,167 @@
       },
       "Critical": {
         "Background Subdued": {
-          "value": "#f9dee3",
+          "value": "#F3E8EA",
           "type": "color"
         },
         "Background Secondary": {
-          "value": "#ffffff",
+          "value": "#ECE9E9",
           "type": "color"
         },
         "Border Default": {
-          "value": "#ba1b3b",
+          "value": "#3D2022",
           "type": "color"
         },
         "Icon": {
-          "value": "#ba1b3b",
+          "value": "#2B1618",
           "type": "color"
         }
       },
       "Warning": {
         "Background Subdued": {
-          "value": "#ffe4bb",
+          "value": "#FAEBD7",
           "type": "color"
         },
         "Background Secondary": {
-          "value": "#ffffff",
+          "value": "#EDEAEA",
           "type": "color"
         },
         "Border Default": {
-          "value": "#fd9833",
+          "value": "#492E28",
           "type": "color"
         },
         "Icon": {
-          "value": "#fd9833",
+          "value": "#1D1210",
           "type": "color"
         }
       },
       "Success": {
         "Background Subdued": {
-          "value": "#e5f6f1",
+          "value": "#E5F2EC",
           "type": "color"
         },
         "Background Secondary": {
-          "value": "#ffffff",
+          "value": "#F9FCFA",
           "type": "color"
         },
         "Border Default": {
-          "value": "#00a876",
+          "value": "#2B322D",
           "type": "color"
         },
         "Icon": {
-          "value": "#00a876",
+          "value": "#1E2320",
           "type": "color"
         }
       },
       "Highlight": {
         "Background Subdued": {
-          "value": "#eaeefb",
+          "value": "#F4F5FF",
           "type": "color"
         },
         "Background Secondary": {
-          "value": "#ffffff",
+          "value": "#E6E6E9",
           "type": "color"
         },
         "Border Default": {
-          "value": "#2e5cdf",
+          "value": "#040720",
           "type": "color"
         },
         "Icon": {
-          "value": "#2e5cdf",
+          "value": "#02030D",
           "type": "color"
         }
       },
       "Decorative": {
         "Brand Primary": {
           "Darkest": {
-            "value": "#1D394E",
+            "value": "#252A2C",
             "type": "color"
           },
           "Dark": {
-            "value": "#2B5472",
+            "value": "#41494C",
             "type": "color"
           },
           "Default": {
-            "value": "#386E96",
+            "value": "#5D686D",
             "type": "color"
           },
           "Bright": {
-            "value": "#6891AF",
+            "value": "#8E9599",
             "type": "color"
           },
           "Brightest": {
-            "value": "#C3D3DF",
+            "value": "#BEC3C5",
             "type": "color"
           },
           "Pastel": {
-            "value": "#EBF0F4",
+            "value": "#EFF0F0",
             "type": "color"
           }
         },
         "Brand Secondary": {
           "Darkest": {
-            "value": "#754268",
+            "value": "#3C4044",
             "type": "color"
           },
           "Dark": {
-            "value": "#B0639C",
+            "value": "#697176",
             "type": "color"
           },
           "Default": {
-            "value": "#EA84D0",
+            "value": "#96A1A9",
             "type": "color"
           },
           "Bright": {
-            "value": "#F0A5DD",
+            "value": "#B6BDC3",
             "type": "color"
           },
           "Brightest": {
-            "value": "#F5C6E9",
+            "value": "#D5D9DD",
             "type": "color"
           },
           "Pastel": {
-            "value": "#FBE6F6",
+            "value": "#F5F6F6",
             "type": "color"
           }
         },
         "Brand Tertiary": {
           "Darkest": {
-            "value": "#15634A",
+            "value": "#161819",
             "type": "color"
           },
           "Dark": {
-            "value": "#24AE81",
+            "value": "#272B2C",
             "type": "color"
           },
           "Default": {
-            "value": "#34F8B8",
+            "value": "#383D3F",
             "type": "color"
           },
           "Bright": {
-            "value": "#71FACD",
+            "value": "#747779",
             "type": "color"
           },
           "Brightest": {
-            "value": "#AEFCE3",
+            "value": "#AFB1B2",
             "type": "color"
           },
           "Pastel": {
-            "value": "#EBFEF8",
+            "value": "#EBECEC",
             "type": "color"
           }
         }
       },
       "Primary": {
         "Background Default": {
-          "value": "#386E96",
+          "value": "#71797E",
           "type": "color"
         },
         "Background Hovered": {
-          "value": "#2B5472",
+          "value": "#818589",
           "type": "color"
         },
         "Background Pressed": {
-          "value": "#214057",
+          "value": "#848884",
           "type": "color"
         },
         "Text Default": {
@@ -319,15 +319,15 @@
           "type": "color"
         },
         "Background Hovered": {
-          "value": "#2B5472",
+          "value": "#90917E",
           "type": "color"
         },
         "Background Pressed": {
-          "value": "#214057",
+          "value": "#656658",
           "type": "color"
         },
         "Text Default": {
-          "value": "#386E96",
+          "value": "#3A3A32",
           "type": "color"
         },
         "Text Hovered": {
@@ -335,7 +335,7 @@
           "type": "color"
         },
         "Border Default": {
-          "value": "#386E96",
+          "value": "#B1B2A5",
           "type": "color"
         }
       },
@@ -345,15 +345,15 @@
           "type": "color"
         },
         "Background Hovered": {
-          "value": "#2B5472",
+          "value": "#747979",
           "type": "color"
         },
         "Background Pressed": {
-          "value": "#214057",
+          "value": "#424545",
           "type": "color"
         },
         "Text Default": {
-          "value": "#66686b",
+          "value": "#A5ADAD",
           "type": "color"
         },
         "Text Hovered": {
@@ -361,7 +361,7 @@
           "type": "color"
         },
         "Border Default": {
-          "value": "#949494",
+          "value": "#C0C6C6",
           "type": "color"
         }
       }
@@ -899,5 +899,6 @@
         }
       }
     }
-  }
+  },
+  "$themes": []
 }
