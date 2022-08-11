@@ -1,920 +1,920 @@
 {
-    "Optum": {
-      "Color": {
-        "Surface": {
-          "Background Primary": {
-            "value": "#ffffff",
+  "Optum": {
+    "Color": {
+      "Surface": {
+        "Background Primary": {
+          "value": "#ffffff",
+          "type": "color"
+        },
+        "Background Secondary": {
+          "value": "#F5F5F5",
+          "type": "color"
+        },
+        "Background Tertiary": {
+          "value": "#D9F6FA",
+          "type": "color"
+        },
+        "Card Primary": {
+          "value": "#F5F5F5",
+          "type": "color"
+        },
+        "Card Secondary": {
+          "value": "#FFFFFF",
+          "type": "color"
+        },
+        "Card Disabled": {
+          "value": "#D7D7D7",
+          "type": "color"
+        }
+      },
+      "On Surface": {
+        "Text Primary": {
+          "value": "#222222",
+          "type": "color"
+        },
+        "Text Subdued": {
+          "value": "#5A5A5A",
+          "type": "color"
+        },
+        "Text Critical": {
+          "value": "#E32315",
+          "type": "color"
+        },
+        "Text Success": {
+          "value": "#627D32",
+          "type": "color"
+        },
+        "Text Reversed": {
+          "value": "#FFFFFF",
+          "type": "color"
+        },
+        "Border Subdued": {
+          "value": "#E0E0E0",
+          "type": "color"
+        },
+        "Border Default": {
+          "value": "#959595",
+          "type": "color"
+        },
+        "Icon Primary": {
+          "value": "#636363",
+          "type": "color"
+        }
+      },
+      "Interactive": {
+        "Action Primary": {
+          "value": "#002677",
+          "type": "color"
+        },
+        "Action Hovered": {
+          "value": "#37209A",
+          "type": "color"
+        },
+        "Action Pressed": {
+          "value": "#251669",
+          "type": "color"
+        },
+        "Action Subdued": {
+          "value": "#66686B",
+          "type": "color"
+        },
+        "Action Disabled": {
+          "value": "#D6D6D6",
+          "type": "color"
+        },
+        "Background Default": {
+          "value": "#FFFFFF",
+          "type": "color"
+        },
+        "Background Disabled": {
+          "value": "#F0F0F0",
+          "type": "color"
+        },
+        "Background Hovered": {
+          "value": "#f8f8f8",
+          "type": "color"
+        },
+        "Background Pressed": {
+          "value": "#f0f0f0",
+          "type": "color"
+        },
+        "Border Default": {
+          "value": "#949494",
+          "type": "color"
+        },
+        "Border Hovered": {
+          "value": "#501CD2",
+          "type": "color"
+        },
+        "Border Disabled": {
+          "value": "#d6d6d6",
+          "type": "color"
+        },
+        "Border Critical Default": {
+          "value": "#ba1b3b",
+          "type": "color"
+        },
+        "Focus": {
+          "value": "#501CD2",
+          "type": "color"
+        },
+        "Icon Default": {
+          "value": "#ffffff",
+          "type": "color"
+        },
+        "Icon Disabled": {
+          "value": "#949494",
+          "type": "color"
+        }
+      },
+      "Critical": {
+        "Background Subdued": {
+          "value": "#F9DEE3",
+          "type": "color"
+        },
+        "Background Secondary": {
+          "value": "#ffffff",
+          "type": "color"
+        },
+        "Border Default": {
+          "value": "#BA1B3B",
+          "type": "color"
+        },
+        "Icon": {
+          "value": "#BA1B3B",
+          "type": "color"
+        }
+      },
+      "Warning": {
+        "Background Subdued": {
+          "value": "#FFE4BB",
+          "type": "color"
+        },
+        "Background Secondary": {
+          "value": "#ffffff",
+          "type": "color"
+        },
+        "Border Default": {
+          "value": "#FD9833",
+          "type": "color"
+        },
+        "Icon": {
+          "value": "#FD9833",
+          "type": "color"
+        }
+      },
+      "Success": {
+        "Background Subdued": {
+          "value": "#E5F6F1",
+          "type": "color"
+        },
+        "Background Secondary": {
+          "value": "#ffffff",
+          "type": "color"
+        },
+        "Border Default": {
+          "value": "#00A876",
+          "type": "color"
+        },
+        "Icon": {
+          "value": "#00A876",
+          "type": "color"
+        }
+      },
+      "Highlight": {
+        "Background Subdued": {
+          "value": "#EAEEFB",
+          "type": "color"
+        },
+        "Background Secondary": {
+          "value": "#ffffff",
+          "type": "color"
+        },
+        "Border Default": {
+          "value": "#2E5CDF",
+          "type": "color"
+        },
+        "Icon": {
+          "value": "#2E5CDF",
+          "type": "color"
+        }
+      },
+      "Decorative": {
+        "Brand Primary": {
+          "Darkest": {
+            "value": "#993A1A",
             "type": "color"
           },
-          "Background Secondary": {
-            "value": "#F5F5F5",
+          "Dark": {
+            "value": "#CC4E22",
             "type": "color"
           },
-          "Background Tertiary": {
-            "value": "#D9F6FA",
+          "Default": {
+            "value": "#FF612B",
             "type": "color"
           },
-          "Card Primary": {
-            "value": "#F5F5F5",
+          "Bright": {
+            "value": "#FF8155",
             "type": "color"
           },
-          "Card Secondary": {
-            "value": "#FFFFFF",
+          "Brightest": {
+            "value": "#FFA080",
             "type": "color"
           },
-          "Card Disabled": {
-            "value": "#D7D7D7",
+          "Pastel": {
+            "value": "#FFDACD",
             "type": "color"
           }
         },
-        "On Surface": {
-          "Text Primary": {
-            "value": "#222222",
+        "Brand Secondary": {
+          "Darkest": {
+            "value": "#754268",
             "type": "color"
           },
-          "Text Subdued": {
-            "value": "#5A5A5A",
+          "Dark": {
+            "value": "#B0639C",
             "type": "color"
           },
-          "Text Critical": {
-            "value": "#E32315",
+          "Default": {
+            "value": "#EA84D0",
             "type": "color"
           },
-          "Text Success": {
-            "value": "#627D32",
+          "Bright": {
+            "value": "#F0A5DD",
             "type": "color"
           },
-          "Text Reversed": {
-            "value": "#FFFFFF",
+          "Brightest": {
+            "value": "#F5C6E9",
             "type": "color"
           },
-          "Border Subdued": {
-            "value": "#E0E0E0",
-            "type": "color"
-          },
-          "Border Default": {
-            "value": "#959595",
-            "type": "color"
-          },
-          "Icon Primary": {
-            "value": "#636363",
+          "Pastel": {
+            "value": "#FBE6F6",
             "type": "color"
           }
         },
-        "Interactive": {
-          "Action Primary": {
-            "value": "#002677",
+        "Brand Tertiary": {
+          "Darkest": {
+            "value": "{Color.Decorative.Brand Secondary.Darkest}",
             "type": "color"
           },
-          "Action Hovered": {
-            "value": "#37209A",
+          "Dark": {
+            "value": "{Color.Decorative.Brand Secondary.Dark}",
             "type": "color"
           },
-          "Action Pressed": {
-            "value": "#251669",
+          "Default": {
+            "value": "{Color.Decorative.Brand Secondary.Default}",
             "type": "color"
           },
-          "Action Subdued": {
-            "value": "#66686B",
+          "Bright": {
+            "value": "{Color.Decorative.Brand Secondary.Bright}",
             "type": "color"
           },
-          "Action Disabled": {
-            "value": "#D6D6D6",
+          "Brightest": {
+            "value": "{Color.Decorative.Brand Secondary.Brightest}",
             "type": "color"
           },
-          "Background Default": {
-            "value": "#FFFFFF",
-            "type": "color"
-          },
-          "Background Disabled": {
-            "value": "#F0F0F0",
-            "type": "color"
-          },
-          "Background Hovered": {
-            "value": "#f8f8f8",
-            "type": "color"
-          },
-          "Background Pressed": {
-            "value": "#f0f0f0",
-            "type": "color"
-          },
-          "Border Default": {
-            "value": "#949494",
-            "type": "color"
-          },
-          "Border Hovered": {
-            "value": "#501CD2",
-            "type": "color"
-          },
-          "Border Disabled": {
-            "value": "#d6d6d6",
-            "type": "color"
-          },
-          "Border Critical Default": {
-            "value": "#ba1b3b",
-            "type": "color"
-          },
-          "Focus": {
-            "value": "#501CD2",
-            "type": "color"
-          },
-          "Icon Default": {
-            "value": "#ffffff",
-            "type": "color"
-          },
-          "Icon Disabled": {
-            "value": "#949494",
-            "type": "color"
-          }
-        },
-        "Critical": {
-          "Background Subdued": {
-            "value": "#F9DEE3",
-            "type": "color"
-          },
-          "Background Secondary": {
-            "value": "#ffffff",
-            "type": "color"
-          },
-          "Border Default": {
-            "value": "#BA1B3B",
-            "type": "color"
-          },
-          "Icon": {
-            "value": "#BA1B3B",
-            "type": "color"
-          }
-        },
-        "Warning": {
-          "Background Subdued": {
-            "value": "#FFE4BB",
-            "type": "color"
-          },
-          "Background Secondary": {
-            "value": "#ffffff",
-            "type": "color"
-          },
-          "Border Default": {
-            "value": "#FD9833",
-            "type": "color"
-          },
-          "Icon": {
-            "value": "#FD9833",
-            "type": "color"
-          }
-        },
-        "Success": {
-          "Background Subdued": {
-            "value": "#E5F6F1",
-            "type": "color"
-          },
-          "Background Secondary": {
-            "value": "#ffffff",
-            "type": "color"
-          },
-          "Border Default": {
-            "value": "#00A876",
-            "type": "color"
-          },
-          "Icon": {
-            "value": "#00A876",
-            "type": "color"
-          }
-        },
-        "Highlight": {
-          "Background Subdued": {
-            "value": "#EAEEFB",
-            "type": "color"
-          },
-          "Background Secondary": {
-            "value": "#ffffff",
-            "type": "color"
-          },
-          "Border Default": {
-            "value": "#2E5CDF",
-            "type": "color"
-          },
-          "Icon": {
-            "value": "#2E5CDF",
-            "type": "color"
-          }
-        },
-        "Decorative": {
-          "Brand Primary": {
-            "Darkest": {
-              "value": "#993A1A",
-              "type": "color"
-            },
-            "Dark": {
-              "value": "#CC4E22",
-              "type": "color"
-            },
-            "Default": {
-              "value": "#FF612B",
-              "type": "color"
-            },
-            "Bright": {
-              "value": "#FF8155",
-              "type": "color"
-            },
-            "Brightest": {
-              "value": "#FFA080",
-              "type": "color"
-            },
-            "Pastel": {
-              "value": "#FFDACD",
-              "type": "color"
-            }
-          },
-          "Brand Secondary": {
-            "Darkest": {
-              "value": "#15846D",
-              "type": "color"
-            },
-            "Dark": {
-              "value": "#00A886",
-              "type": "color"
-            },
-            "Default": {
-              "value": "#01C3A2",
-              "type": "color"
-            },
-            "Bright": {
-              "value": "#A5E7DA",
-              "type": "color"
-            },
-            "Brightest": {
-              "value": "#D2F3EC",
-              "type": "color"
-            },
-            "Pastel": {
-              "value": "#E8F8F5",
-              "type": "color"
-            }
-          },
-          "Brand Tertiary": {
-            "Darkest": {
-              "value": "{Color.Decorative.Brand Secondary.Darkest}",
-              "type": "color"
-            },
-            "Dark": {
-              "value": "{Color.Decorative.Brand Secondary.Dark}",
-              "type": "color"
-            },
-            "Default": {
-              "value": "#0FB5AE",
-              "type": "color"
-            },
-            "Bright": {
-              "value": "{Color.Decorative.Brand Secondary.Bright}",
-              "type": "color"
-            },
-            "Brightest": {
-              "value": "{Color.Decorative.Brand Secondary.Brightest}",
-              "type": "color"
-            },
-            "Pastel": {
-              "value": "{Color.Decorative.Brand Secondary.Pastel}",
-              "type": "color"
-            }
-          }
-        },
-        "Primary": {
-          "Background Default": {
-            "value": "#002677",
-            "type": "color"
-          },
-          "Background Hovered": {
-            "value": "#37209A",
-            "type": "color"
-          },
-          "Background Pressed": {
-            "value": "#251669",
-            "type": "color"
-          },
-          "Text Default": {
-            "value": "#ffffff",
-            "type": "color"
-          },
-          "Background Critical Default": {
-            "value": "#E32315",
-            "type": "color"
-          },
-          "Background Critical Hovered": {
-            "value": "#A51834",
-            "type": "color"
-          },
-          "Background Critical Pressed": {
-            "value": "#711124",
-            "type": "color"
-          },
-          "Text Critical Default": {
-            "value": "#ffffff",
-            "type": "color"
-          }
-        },
-        "Secondary": {
-          "Background Default": {
-            "value": "rgba(255,255,255,0)",
-            "type": "color"
-          },
-          "Background Hovered": {
-            "value": "#37209A",
-            "type": "color"
-          },
-          "Background Pressed": {
-            "value": "#251669",
-            "type": "color"
-          },
-          "Text Default": {
-            "value": "#002677",
-            "type": "color"
-          },
-          "Text Hovered": {
-            "value": "#ffffff",
-            "type": "color"
-          },
-          "Border Default": {
-            "value": "#002677",
-            "type": "color"
-          }
-        },
-        "Tertiary": {
-          "Background Default": {
-            "value": "rgba(255,255,255,0)",
-            "type": "color"
-          },
-          "Background Hovered": {
-            "value": "#37209A",
-            "type": "color"
-          },
-          "Background Pressed": {
-            "value": "#251669",
-            "type": "color"
-          },
-          "Text Default": {
-            "value": "#66686B",
-            "type": "color"
-          },
-          "Text Hovered": {
-            "value": "#FFFFFF",
-            "type": "color"
-          },
-          "Border Default": {
-            "value": "#949494",
+          "Pastel": {
+            "value": "{Color.Decorative.Brand Secondary.Pastel}",
             "type": "color"
           }
         }
       },
-      "Shadow": {
-        "Card": {
+      "Primary": {
+        "Background Default": {
+          "value": "#002677",
+          "type": "color"
+        },
+        "Background Hovered": {
+          "value": "#37209A",
+          "type": "color"
+        },
+        "Background Pressed": {
+          "value": "#251669",
+          "type": "color"
+        },
+        "Text Default": {
+          "value": "#ffffff",
+          "type": "color"
+        },
+        "Background Critical Default": {
+          "value": "#E32315",
+          "type": "color"
+        },
+        "Background Critical Hovered": {
+          "value": "#A51834",
+          "type": "color"
+        },
+        "Background Critical Pressed": {
+          "value": "#711124",
+          "type": "color"
+        },
+        "Text Critical Default": {
+          "value": "#ffffff",
+          "type": "color"
+        }
+      },
+      "Secondary": {
+        "Background Default": {
+          "value": "rgba(255,255,255,0)",
+          "type": "color"
+        },
+        "Background Hovered": {
+          "value": "#37209A",
+          "type": "color"
+        },
+        "Background Pressed": {
+          "value": "#251669",
+          "type": "color"
+        },
+        "Text Default": {
+          "value": "#002677",
+          "type": "color"
+        },
+        "Text Hovered": {
+          "value": "#ffffff",
+          "type": "color"
+        },
+        "Border Default": {
+          "value": "#002677",
+          "type": "color"
+        }
+      },
+      "Tertiary": {
+        "Background Default": {
+          "value": "rgba(255,255,255,0)",
+          "type": "color"
+        },
+        "Background Hovered": {
+          "value": "#37209A",
+          "type": "color"
+        },
+        "Background Pressed": {
+          "value": "#251669",
+          "type": "color"
+        },
+        "Text Default": {
+          "value": "#66686B",
+          "type": "color"
+        },
+        "Text Hovered": {
+          "value": "#FFFFFF",
+          "type": "color"
+        },
+        "Border Default": {
+          "value": "#949494",
+          "type": "color"
+        }
+      }
+    },
+    "Shadow": {
+      "Card": {
+        "value": {
+          "x": "0",
+          "y": "2",
+          "blur": "6",
+          "spread": "0",
+          "color": "rgba(0,0,0,0.08)",
+          "type": "dropShadow"
+        },
+        "type": "boxShadow"
+      },
+      "Dropdown": {
+        "value": {
+          "x": "0",
+          "y": "4",
+          "blur": "8",
+          "spread": "0",
+          "color": "rgba(0,0,0,0.1)",
+          "type": "dropShadow"
+        },
+        "type": "boxShadow"
+      }
+    },
+    "Font Family": {
+      "Headings": {
+        "value": "Optum Sans",
+        "type": "fontFamilies"
+      },
+      "Body": {
+        "value": "Optum Sans",
+        "type": "fontFamilies"
+      }
+    },
+    "Letter Spacing": {
+      "Default": {
+        "value": "0",
+        "type": "letterSpacing"
+      },
+      "Button": {
+        "value": "-0.2",
+        "type": "letterSpacing"
+      },
+      "Overline": {
+        "value": "0.6",
+        "type": "letterSpacing"
+      }
+    },
+    "Typography": {
+      "Heading": {
+        "Heading One": {
           "value": {
-            "x": "0",
-            "y": "2",
-            "blur": "6",
-            "spread": "0",
-            "color": "rgba(0,0,0,0.08)",
-            "type": "dropShadow"
+            "fontFamily": "{Font Family.Headings}",
+            "fontWeight": "{Large Headings}",
+            "lineHeight": "40",
+            "fontSize": "32",
+            "letterSpacing": "{Letter Spacing.Default}",
+            "paragraphSpacing": "0",
+            "textCase": "none",
+            "textDecoration": "none"
           },
-          "type": "boxShadow"
+          "type": "typography",
+          "description": "Heading One"
         },
-        "Dropdown": {
+        "Heading Two": {
           "value": {
-            "x": "0",
-            "y": "4",
-            "blur": "8",
-            "spread": "0",
-            "color": "rgba(0,0,0,0.1)",
-            "type": "dropShadow"
+            "fontFamily": "{Font Family.Headings}",
+            "fontWeight": "{Large Headings}",
+            "lineHeight": "32",
+            "fontSize": "24",
+            "letterSpacing": "{Letter Spacing.Default}",
+            "paragraphSpacing": "0",
+            "textCase": "none",
+            "textDecoration": "none"
           },
-          "type": "boxShadow"
+          "type": "typography",
+          "description": "Heading Two\n"
+        },
+        "Heading Three": {
+          "value": {
+            "fontFamily": "{Font Family.Headings}",
+            "fontWeight": "{Large Headings}",
+            "lineHeight": "28",
+            "fontSize": "20",
+            "letterSpacing": "{Letter Spacing.Default}",
+            "paragraphSpacing": "0",
+            "textCase": "none",
+            "textDecoration": "none"
+          },
+          "type": "typography",
+          "description": "Heading Three"
+        },
+        "Heading Four": {
+          "value": {
+            "fontFamily": "{Font Family.Headings}",
+            "fontWeight": "{Large Headings}",
+            "lineHeight": "24",
+            "fontSize": "18",
+            "letterSpacing": "{Letter Spacing.Default}",
+            "paragraphSpacing": "0",
+            "textCase": "none",
+            "textDecoration": "none"
+          },
+          "type": "typography"
         }
       },
-      "Font Family": {
-        "Headings": {
-          "value": "Optum Sans",
-          "type": "fontFamilies"
+      "Body": {
+        "Body One": {
+          "value": {
+            "fontFamily": "{Font Family.Body}",
+            "fontWeight": "{Body}",
+            "lineHeight": "24",
+            "fontSize": "16",
+            "letterSpacing": "{Letter Spacing.Default}",
+            "paragraphSpacing": "8",
+            "textCase": "none",
+            "textDecoration": "none"
+          },
+          "type": "typography",
+          "description": "Body One"
         },
-        "Body": {
-          "value": "Optum Sans",
-          "type": "fontFamilies"
+        "Body One Secondary": {
+          "value": {
+            "fontFamily": "{Font Family.Body}",
+            "fontWeight": "{Body Secondary}",
+            "lineHeight": "24",
+            "fontSize": "16",
+            "letterSpacing": "{Letter Spacing.Default}",
+            "paragraphSpacing": "8",
+            "textCase": "none",
+            "textDecoration": "none"
+          },
+          "type": "typography"
+        },
+        "Body Two": {
+          "value": {
+            "fontFamily": "{Font Family.Body}",
+            "fontWeight": "{Body}",
+            "lineHeight": "20",
+            "fontSize": "14",
+            "letterSpacing": "{Letter Spacing.Default}",
+            "paragraphSpacing": "8",
+            "textCase": "none",
+            "textDecoration": "none"
+          },
+          "type": "typography",
+          "description": "Body Two"
+        },
+        "Body Two Secondary": {
+          "value": {
+            "fontFamily": "{Font Family.Body}",
+            "fontWeight": "{Body Secondary}",
+            "lineHeight": "20",
+            "fontSize": "14",
+            "letterSpacing": "{Letter Spacing.Default}",
+            "paragraphSpacing": "8",
+            "textCase": "none",
+            "textDecoration": "none"
+          },
+          "type": "typography"
         }
       },
-      "Letter Spacing": {
-        "Default": {
-          "value": "0",
-          "type": "letterSpacing"
+      "Subtitle": {
+        "Subtitle One": {
+          "value": {
+            "fontFamily": "{Font Family.Body}",
+            "fontWeight": "{Small Headings}",
+            "lineHeight": "24",
+            "fontSize": "16",
+            "letterSpacing": "-0.2px",
+            "paragraphSpacing": "0",
+            "textCase": "none",
+            "textDecoration": "none"
+          },
+          "type": "typography",
+          "description": "Subtitle One"
         },
-        "Button": {
-          "value": "-0.2",
-          "type": "letterSpacing"
+        "Subtitle Two": {
+          "value": {
+            "fontFamily": "{Font Family.Body}",
+            "fontWeight": "{Small Headings}",
+            "lineHeight": "20",
+            "fontSize": "14",
+            "letterSpacing": "-0.2px",
+            "paragraphSpacing": "0",
+            "textCase": "none",
+            "textDecoration": "none"
+          },
+          "type": "typography"
+        }
+      },
+      "Button": {
+        "Button One": {
+          "value": {
+            "fontFamily": "{Font Family.Body}",
+            "fontWeight": "Bold",
+            "lineHeight": "24",
+            "fontSize": "16",
+            "letterSpacing": "{Letter Spacing.Button}",
+            "paragraphSpacing": "0",
+            "textCase": "none",
+            "textDecoration": "none"
+          },
+          "type": "typography"
+        },
+        "Button Two": {
+          "value": {
+            "fontFamily": "{Font Family.Body}",
+            "fontWeight": "Bold",
+            "lineHeight": "20",
+            "fontSize": "14",
+            "letterSpacing": "{Letter Spacing.Button}",
+            "paragraphSpacing": "0",
+            "textCase": "none",
+            "textDecoration": "none"
+          },
+          "type": "typography"
+        }
+      },
+      "Other": {
+        "Label": {
+          "value": {
+            "fontFamily": "{Font Family.Body}",
+            "fontWeight": "Medium",
+            "lineHeight": "16",
+            "fontSize": "12",
+            "letterSpacing": "{Letter Spacing.Default}",
+            "paragraphSpacing": "0",
+            "textCase": "none",
+            "textDecoration": "none"
+          },
+          "type": "typography"
         },
         "Overline": {
-          "value": "0.6",
-          "type": "letterSpacing"
+          "value": {
+            "fontFamily": "{Font Family.Body}",
+            "fontWeight": "Bold",
+            "lineHeight": "16",
+            "fontSize": "12",
+            "letterSpacing": "{Letter Spacing.Overline}",
+            "paragraphSpacing": "0",
+            "textCase": "uppercase",
+            "textDecoration": "none"
+          },
+          "type": "typography"
+        },
+        "Caption": {
+          "value": {
+            "fontFamily": "{Font Family.Body}",
+            "fontWeight": "Regular",
+            "lineHeight": "16",
+            "fontSize": "12",
+            "letterSpacing": "{Letter Spacing.Default}",
+            "paragraphSpacing": "0",
+            "textCase": "none",
+            "textDecoration": "none"
+          },
+          "type": "typography"
+        },
+        "Tab": {
+          "value": {
+            "fontFamily": "{Font Family.Body}",
+            "fontWeight": "Regular",
+            "lineHeight": "12",
+            "fontSize": "10",
+            "letterSpacing": "{Letter Spacing.Default}",
+            "paragraphSpacing": "0",
+            "textCase": "none",
+            "textDecoration": "none"
+          },
+          "type": "typography"
         }
+      }
+    },
+    "Space": {
+      "None": {
+        "value": "0",
+        "type": "spacing"
       },
-      "Typography": {
-        "Heading": {
-          "Heading One": {
-            "value": {
-              "fontFamily": "{Font Family.Headings}",
-              "fontWeight": "{Large Headings}",
-              "lineHeight": "40",
-              "fontSize": "32",
-              "letterSpacing": "{Letter Spacing.Default}",
-              "paragraphSpacing": "0",
-              "textCase": "none",
-              "textDecoration": "none"
-            },
-            "type": "typography",
-            "description": "Heading One"
-          },
-          "Heading Two": {
-            "value": {
-              "fontFamily": "{Font Family.Headings}",
-              "fontWeight": "{Large Headings}",
-              "lineHeight": "32",
-              "fontSize": "24",
-              "letterSpacing": "{Letter Spacing.Default}",
-              "paragraphSpacing": "0",
-              "textCase": "none",
-              "textDecoration": "none"
-            },
-            "type": "typography",
-            "description": "Heading Two\n"
-          },
-          "Heading Three": {
-            "value": {
-              "fontFamily": "{Font Family.Headings}",
-              "fontWeight": "{Large Headings}",
-              "lineHeight": "28",
-              "fontSize": "20",
-              "letterSpacing": "{Letter Spacing.Default}",
-              "paragraphSpacing": "0",
-              "textCase": "none",
-              "textDecoration": "none"
-            },
-            "type": "typography",
-            "description": "Heading Three"
-          },
-          "Heading Four": {
-            "value": {
-              "fontFamily": "{Font Family.Headings}",
-              "fontWeight": "{Large Headings}",
-              "lineHeight": "24",
-              "fontSize": "18",
-              "letterSpacing": "{Letter Spacing.Default}",
-              "paragraphSpacing": "0",
-              "textCase": "none",
-              "textDecoration": "none"
-            },
-            "type": "typography"
-          }
-        },
-        "Body": {
-          "Body One": {
-            "value": {
-              "fontFamily": "{Font Family.Body}",
-              "fontWeight": "{Body}",
-              "lineHeight": "24",
-              "fontSize": "16",
-              "letterSpacing": "{Letter Spacing.Default}",
-              "paragraphSpacing": "8",
-              "textCase": "none",
-              "textDecoration": "none"
-            },
-            "type": "typography",
-            "description": "Body One"
-          },
-          "Body One Secondary": {
-            "value": {
-              "fontFamily": "{Font Family.Body}",
-              "fontWeight": "{Body Secondary}",
-              "lineHeight": "24",
-              "fontSize": "16",
-              "letterSpacing": "{Letter Spacing.Default}",
-              "paragraphSpacing": "8",
-              "textCase": "none",
-              "textDecoration": "none"
-            },
-            "type": "typography"
-          },
-          "Body Two": {
-            "value": {
-              "fontFamily": "{Font Family.Body}",
-              "fontWeight": "{Body}",
-              "lineHeight": "20",
-              "fontSize": "14",
-              "letterSpacing": "{Letter Spacing.Default}",
-              "paragraphSpacing": "8",
-              "textCase": "none",
-              "textDecoration": "none"
-            },
-            "type": "typography",
-            "description": "Body Two"
-          },
-          "Body Two Secondary": {
-            "value": {
-              "fontFamily": "{Font Family.Body}",
-              "fontWeight": "{Body Secondary}",
-              "lineHeight": "20",
-              "fontSize": "14",
-              "letterSpacing": "{Letter Spacing.Default}",
-              "paragraphSpacing": "8",
-              "textCase": "none",
-              "textDecoration": "none"
-            },
-            "type": "typography"
-          }
-        },
-        "Subtitle": {
-          "Subtitle One": {
-            "value": {
-              "fontFamily": "{Font Family.Body}",
-              "fontWeight": "{Small Headings}",
-              "lineHeight": "24",
-              "fontSize": "16",
-              "letterSpacing": "-0.2px",
-              "paragraphSpacing": "0",
-              "textCase": "none",
-              "textDecoration": "none"
-            },
-            "type": "typography",
-            "description": "Subtitle One"
-          },
-          "Subtitle Two": {
-            "value": {
-              "fontFamily": "{Font Family.Body}",
-              "fontWeight": "{Small Headings}",
-              "lineHeight": "20",
-              "fontSize": "14",
-              "letterSpacing": "-0.2px",
-              "paragraphSpacing": "0",
-              "textCase": "none",
-              "textDecoration": "none"
-            },
-            "type": "typography"
-          }
-        },
-        "Button": {
-          "Button One": {
-            "value": {
-              "fontFamily": "{Font Family.Body}",
-              "fontWeight": "Bold",
-              "lineHeight": "24",
-              "fontSize": "16",
-              "letterSpacing": "{Letter Spacing.Button}",
-              "paragraphSpacing": "0",
-              "textCase": "none",
-              "textDecoration": "none"
-            },
-            "type": "typography"
-          },
-          "Button Two": {
-            "value": {
-              "fontFamily": "{Font Family.Body}",
-              "fontWeight": "Bold",
-              "lineHeight": "20",
-              "fontSize": "14",
-              "letterSpacing": "{Letter Spacing.Button}",
-              "paragraphSpacing": "0",
-              "textCase": "none",
-              "textDecoration": "none"
-            },
-            "type": "typography"
-          }
-        },
-        "Other": {
-          "Label": {
-            "value": {
-              "fontFamily": "{Font Family.Body}",
-              "fontWeight": "Medium",
-              "lineHeight": "16",
-              "fontSize": "12",
-              "letterSpacing": "{Letter Spacing.Default}",
-              "paragraphSpacing": "0",
-              "textCase": "none",
-              "textDecoration": "none"
-            },
-            "type": "typography"
-          },
-          "Overline": {
-            "value": {
-              "fontFamily": "{Font Family.Body}",
-              "fontWeight": "Bold",
-              "lineHeight": "16",
-              "fontSize": "12",
-              "letterSpacing": "{Letter Spacing.Overline}",
-              "paragraphSpacing": "0",
-              "textCase": "uppercase",
-              "textDecoration": "none"
-            },
-            "type": "typography"
-          },
-          "Caption": {
-            "value": {
-              "fontFamily": "{Font Family.Body}",
-              "fontWeight": "Regular",
-              "lineHeight": "16",
-              "fontSize": "12",
-              "letterSpacing": "{Letter Spacing.Default}",
-              "paragraphSpacing": "0",
-              "textCase": "none",
-              "textDecoration": "none"
-            },
-            "type": "typography"
-          },
-          "Tab": {
-            "value": {
-              "fontFamily": "{Font Family.Body}",
-              "fontWeight": "Regular",
-              "lineHeight": "12",
-              "fontSize": "10",
-              "letterSpacing": "{Letter Spacing.Default}",
-              "paragraphSpacing": "0",
-              "textCase": "none",
-              "textDecoration": "none"
-            },
-            "type": "typography"
-          }
-        }
+      "Quarter": {
+        "value": "4",
+        "type": "spacing"
       },
-      "Space": {
+      "Half": {
+        "value": "8",
+        "type": "spacing"
+      },
+      "Three Quarters": {
+        "value": "12",
+        "type": "spacing"
+      },
+      "One": {
+        "value": "16",
+        "type": "spacing"
+      },
+      "One and Half": {
+        "value": "24",
+        "type": "spacing"
+      },
+      "Two": {
+        "value": "32",
+        "type": "spacing"
+      },
+      "Two and Half": {
+        "value": "40",
+        "type": "spacing"
+      },
+      "Three": {
+        "value": "48",
+        "type": "spacing"
+      },
+      "Four": {
+        "value": "64",
+        "type": "spacing"
+      },
+      "Five": {
+        "value": "80",
+        "type": "spacing"
+      }
+    },
+    "Border Width": {
+      "Thin": {
+        "value": "1",
+        "type": "borderWidth"
+      },
+      "Thick": {
+        "value": "2",
+        "type": "borderWidth"
+      }
+    },
+    "Border Radius": {
+      "Generic": {
         "None": {
           "value": "0",
-          "type": "spacing"
+          "type": "borderRadius"
         },
-        "Quarter": {
-          "value": "4",
-          "type": "spacing"
-        },
-        "Half": {
-          "value": "8",
-          "type": "spacing"
-        },
-        "Three Quarters": {
-          "value": "12",
-          "type": "spacing"
-        },
-        "One": {
-          "value": "16",
-          "type": "spacing"
-        },
-        "One and Half": {
-          "value": "24",
-          "type": "spacing"
-        },
-        "Two": {
-          "value": "32",
-          "type": "spacing"
-        },
-        "Two and Half": {
-          "value": "40",
-          "type": "spacing"
-        },
-        "Three": {
-          "value": "48",
-          "type": "spacing"
-        },
-        "Four": {
-          "value": "64",
-          "type": "spacing"
-        },
-        "Five": {
-          "value": "80",
-          "type": "spacing"
-        }
-      },
-      "Border Width": {
         "Thin": {
           "value": "1",
-          "type": "borderWidth"
+          "type": "borderRadius"
         },
         "Thick": {
           "value": "2",
-          "type": "borderWidth"
+          "type": "borderRadius"
+        },
+        "Small": {
+          "value": "3",
+          "type": "borderRadius"
+        },
+        "Medium": {
+          "value": "6",
+          "type": "borderRadius"
+        },
+        "Large": {
+          "value": "9",
+          "type": "borderRadius"
+        },
+        "Extra Large": {
+          "value": "12",
+          "type": "borderRadius"
+        },
+        "Huge": {
+          "value": "20",
+          "type": "borderRadius"
+        },
+        "Pill": {
+          "value": "99999",
+          "type": "borderRadius"
+        },
+        "Circle": {
+          "value": "99999",
+          "type": "borderRadius"
         }
       },
-      "Border Radius": {
-        "Generic": {
-          "None": {
-            "value": "0",
-            "type": "borderRadius"
-          },
-          "Thin": {
-            "value": "1",
-            "type": "borderRadius"
-          },
-          "Thick": {
-            "value": "2",
-            "type": "borderRadius"
-          },
-          "Small": {
-            "value": "3",
-            "type": "borderRadius"
-          },
-          "Medium": {
-            "value": "6",
-            "type": "borderRadius"
-          },
-          "Large": {
-            "value": "9",
-            "type": "borderRadius"
-          },
-          "Extra Large": {
-            "value": "12",
-            "type": "borderRadius"
-          },
-          "Huge": {
-            "value": "20",
-            "type": "borderRadius"
-          },
-          "Pill": {
-            "value": "99999",
-            "type": "borderRadius"
-          },
-          "Circle": {
-            "value": "99999",
-            "type": "borderRadius"
-          }
-        },
-        "Dynamic": {
-          "Button": {
-            "value": "{Border Radius.Generic.Small}",
-            "type": "borderRadius"
-          }
+      "Dynamic": {
+        "Button": {
+          "value": "{Border Radius.Generic.Small}",
+          "type": "borderRadius"
         }
-      },
-      "Description": {
-        "Actions": {
-          "Button": {
-            "value": "Button",
-            "type": "other",
-            "description": "Buttons allow users to perform an action or to navigate to another page. They have multiple styles for various needs, and are ideal for calling attention to where a user needs to do something in order to move forward in a flow."
-          },
-          "Text Action": {
-            "value": "Text Action",
-            "type": "other",
-            "description": "Text Actions allow users to navigate to a different location or initiate an action in a smaller form factor."
-          }
-        },
-        "Typography & Assets": {
-          "Icon": {
-            "value": "Icon",
-            "type": "other",
-            "description": "An Icon is a graphical representation of a concept or thing. Use them to add salience to an item or serve as a representation."
-          },
-          "Tiny Icon": {
-            "value": "Tiny Icon",
-            "type": "other",
-            "description": "Tiny Icons are used as meaningful decorations or replacements for actions."
-          },
-          "Typography": {
-            "value": "Typography",
-            "type": "other",
-            "description": "Typography consists of Headings, UI Text and Paragraph Text. These can be presented in an emphasized or subtle style."
-          }
-        },
-        "Status & Feedback": {
-          "Skeleton": {
-            "value": "Skeleton",
-            "type": "other",
-            "description": "Skeleton are components are used to represent UI elements while they are loading."
-          },
-          "Status Badge": {
-            "value": "Status Badge",
-            "type": "other",
-            "description": "Status Badges are used to communicate the status of an item along with a semantically meaninful colour in order to draw attention."
-          },
-          "Status Banner": {
-            "value": "Status Banner",
-            "type": "other",
-            "description": "Status Banners are highly salient elements that provide an important notification and status. Generally these are used after submitting a form."
-          },
-          "Image Message": {
-            "value": "Image Message",
-            "type": "other",
-            "description": "An Image message is used to pair an image along with a piece of content. Commonly used for empty states and cards that have a visual associated to it. These can be presented with an image on the top, left or right."
-          }
-        },
-        "Data Entry": {
-          "Form Field": {
-            "value": "Form Field",
-            "type": "other",
-            "description": "A Form Field allows you to compose an input field with the additional meta-information required by a form (labels, error messages, tooltips, etc.)"
-          },
-          "Text Field": {
-            "value": "Text Field",
-            "type": "other",
-            "description": "A Text Field is an input type that allows a user to enter text. It can optionally be associated with decorations or additional actions."
-          },
-          "Select Field": {
-            "value": "Select Field",
-            "type": "other",
-            "description": "A Select Field allows a user to select from a discrete set of actions."
-          },
-          "Checkboxes": {
-            "value": "Checkboxes",
-            "type": "other",
-            "description": "Checkboxes allow users to select multiple items from a list of individual items, or to mark one individual item as selected."
-          },
-          "Radio": {
-            "value": "Radios",
-            "type": "other",
-            "description": "Radios allow you to select a single option in a set of options with all options exposed without interaction."
-          },
-          "Answer Rows": {
-            "value": "Answer Rows",
-            "type": "other",
-            "description": "Answer Rows allow the user to select one or multiple items described as a sentence."
-          }
-        },
-        "Containers": {
-          "Dialog": {
-            "value": "Dialog",
-            "type": "other",
-            "description": "A Dialog displays important information that users need to acknowledge. They appear over the interface and block further interactions until an action is selected."
-          },
-          "Drawer": {
-            "value": "Drawer",
-            "type": "other",
-            "description": "A Drawer is a modal container that is used to display navigation content or more complex selection actions, such as filtering."
-          },
-          "Box": {
-            "value": "Box",
-            "type": "other",
-            "description": "A Box is used to contain content within a specified area, with or without a background. It can also contain an image as decoration."
-          },
-          "Card": {
-            "value": "Card",
-            "type": "other",
-            "description": "A Card is used to contain content as a distinct element from the background. It can optionally display an image as decoration."
-          },
-          "Popover": {
-            "value": "Popover",
-            "type": "other",
-            "description": "Popovers are containers used to display transient content such as menus, options, additional actions, and more. They visually stand out through stroke and drop shadow and float on top of the interface."
-          },
-          "Tabs": {
-            "value": "Tabs",
-            "type": "other",
-            "description": "Tabs organize content into multiple sections and allow users to navigate between them. The content under the set of tabs should be related and form a coherent unit."
-          },
-          "Scrollable": {
-            "value": "Scrollable",
-            "type": "other",
-            "description": "A Scollable container is used to create a fixed height or width container in which content extends beyond its bounds."
-          }
-        },
-        "Layout": {
-          "Column Layout": {
-            "value": "Column Layout",
-            "type": "other",
-            "description": "A Column Layout is used to size containers within the layout grid."
-          },
-          "Stack Layout": {
-            "value": "Stack Layout",
-            "type": "other",
-            "description": "A Stack Layout is used to space multiple items in a single direction. It behaves the same as Figma's Auto Layout."
-          },
-          "Divider": {
-            "value": "Divider",
-            "type": "other",
-            "description": "Dividers bring clarity to a layout by grouping and dividing content in close proximity. They can also be used to establish rhythm and hierarchy."
-          }
-        },
-        "Data Display": {
-          "Tooltip": {
-            "value": "Tooltip",
-            "type": "other",
-            "description": "Tooltips show contextual help or information about specific components when a user hovers or focuses on them."
-          }
-        },
-        "Navigation": {
-          "App Bar": {
-            "value": "App Bar",
-            "type": "other",
-            "description": "An App Bar appears at the top of a page or window to allow the user to navigate or close it. Additional, contextual actions can also be included."
-          }
-        }
-      },
-      "Large Headings": {
-        "value": "Bold",
-        "type": "fontWeights"
-      },
-      "Small Headings": {
-        "value": "Bold",
-        "type": "fontWeights"
-      },
-      "Body": {
-        "value": "Regular",
-        "type": "fontWeights"
-      },
-      "Body Secondary": {
-        "value": "Regular",
-        "type": "fontWeights"
       }
     },
-    "$themes": []
-  }
+    "Description": {
+      "Actions": {
+        "Button": {
+          "value": "Button",
+          "type": "other",
+          "description": "Buttons allow users to perform an action or to navigate to another page. They have multiple styles for various needs, and are ideal for calling attention to where a user needs to do something in order to move forward in a flow."
+        },
+        "Text Action": {
+          "value": "Text Action",
+          "type": "other",
+          "description": "Text Actions allow users to navigate to a different location or initiate an action in a smaller form factor."
+        }
+      },
+      "Typography & Assets": {
+        "Icon": {
+          "value": "Icon",
+          "type": "other",
+          "description": "An Icon is a graphical representation of a concept or thing. Use them to add salience to an item or serve as a representation."
+        },
+        "Tiny Icon": {
+          "value": "Tiny Icon",
+          "type": "other",
+          "description": "Tiny Icons are used as meaningful decorations or replacements for actions."
+        },
+        "Typography": {
+          "value": "Typography",
+          "type": "other",
+          "description": "Typography consists of Headings, UI Text and Paragraph Text. These can be presented in an emphasized or subtle style."
+        }
+      },
+      "Status & Feedback": {
+        "Skeleton": {
+          "value": "Skeleton",
+          "type": "other",
+          "description": "Skeleton are components are used to represent UI elements while they are loading."
+        },
+        "Status Badge": {
+          "value": "Status Badge",
+          "type": "other",
+          "description": "Status Badges are used to communicate the status of an item along with a semantically meaninful colour in order to draw attention."
+        },
+        "Status Banner": {
+          "value": "Status Banner",
+          "type": "other",
+          "description": "Status Banners are highly salient elements that provide an important notification and status. Generally these are used after submitting a form."
+        },
+        "Image Message": {
+          "value": "Image Message",
+          "type": "other",
+          "description": "An Image message is used to pair an image along with a piece of content. Commonly used for empty states and cards that have a visual associated to it. These can be presented with an image on the top, left or right."
+        }
+      },
+      "Data Entry": {
+        "Form Field": {
+          "value": "Form Field",
+          "type": "other",
+          "description": "A Form Field allows you to compose an input field with the additional meta-information required by a form (labels, error messages, tooltips, etc.)"
+        },
+        "Text Field": {
+          "value": "Text Field",
+          "type": "other",
+          "description": "A Text Field is an input type that allows a user to enter text. It can optionally be associated with decorations or additional actions."
+        },
+        "Select Field": {
+          "value": "Select Field",
+          "type": "other",
+          "description": "A Select Field allows a user to select from a discrete set of actions."
+        },
+        "Checkboxes": {
+          "value": "Checkboxes",
+          "type": "other",
+          "description": "Checkboxes allow users to select multiple items from a list of individual items, or to mark one individual item as selected."
+        },
+        "Radio": {
+          "value": "Radios",
+          "type": "other",
+          "description": "Radios allow you to select a single option in a set of options with all options exposed without interaction."
+        },
+        "Answer Rows": {
+          "value": "Answer Rows",
+          "type": "other",
+          "description": "Answer Rows allow the user to select one or multiple items described as a sentence."
+        }
+      },
+      "Containers": {
+        "Dialog": {
+          "value": "Dialog",
+          "type": "other",
+          "description": "A Dialog displays important information that users need to acknowledge. They appear over the interface and block further interactions until an action is selected."
+        },
+        "Drawer": {
+          "value": "Drawer",
+          "type": "other",
+          "description": "A Drawer is a modal container that is used to display navigation content or more complex selection actions, such as filtering."
+        },
+        "Box": {
+          "value": "Box",
+          "type": "other",
+          "description": "A Box is used to contain content within a specified area, with or without a background. It can also contain an image as decoration."
+        },
+        "Card": {
+          "value": "Card",
+          "type": "other",
+          "description": "A Card is used to contain content as a distinct element from the background. It can optionally display an image as decoration."
+        },
+        "Popover": {
+          "value": "Popover",
+          "type": "other",
+          "description": "Popovers are containers used to display transient content such as menus, options, additional actions, and more. They visually stand out through stroke and drop shadow and float on top of the interface."
+        },
+        "Tabs": {
+          "value": "Tabs",
+          "type": "other",
+          "description": "Tabs organize content into multiple sections and allow users to navigate between them. The content under the set of tabs should be related and form a coherent unit."
+        },
+        "Scrollable": {
+          "value": "Scrollable",
+          "type": "other",
+          "description": "A Scollable container is used to create a fixed height or width container in which content extends beyond its bounds."
+        }
+      },
+      "Layout": {
+        "Column Layout": {
+          "value": "Column Layout",
+          "type": "other",
+          "description": "A Column Layout is used to size containers within the layout grid."
+        },
+        "Stack Layout": {
+          "value": "Stack Layout",
+          "type": "other",
+          "description": "A Stack Layout is used to space multiple items in a single direction. It behaves the same as Figma's Auto Layout."
+        },
+        "Divider": {
+          "value": "Divider",
+          "type": "other",
+          "description": "Dividers bring clarity to a layout by grouping and dividing content in close proximity. They can also be used to establish rhythm and hierarchy."
+        }
+      },
+      "Data Display": {
+        "Tooltip": {
+          "value": "Tooltip",
+          "type": "other",
+          "description": "Tooltips show contextual help or information about specific components when a user hovers or focuses on them."
+        }
+      },
+      "Navigation": {
+        "App Bar": {
+          "value": "App Bar",
+          "type": "other",
+          "description": "An App Bar appears at the top of a page or window to allow the user to navigate or close it. Additional, contextual actions can also be included."
+        }
+      }
+    },
+    "Large Headings": {
+      "value": "Bold",
+      "type": "fontWeights"
+    },
+    "Small Headings": {
+      "value": "Bold",
+      "type": "fontWeights"
+    },
+    "Body": {
+      "value": "Regular",
+      "type": "fontWeights"
+    },
+    "Body Secondary": {
+      "value": "Regular",
+      "type": "fontWeights"
+    }
+  },
+  "$themes": []
+}
